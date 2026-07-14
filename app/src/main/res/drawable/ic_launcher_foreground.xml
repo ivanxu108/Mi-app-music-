@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer arch of headphones (Neon Green) -->
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M54,20 C32,20 18,34 18,56 L18,74 C18,78 21,81 25,81 L32,81 C36,81 39,78 39,74 L39,58 C39,54 36,51 32,51 L25,51 L25,56 C25,38 38,26 54,26 C70,26 83,38 83,56 L83,51 L76,51 C72,51 69,54 69,58 L69,74 C69,78 72,81 76,81 L83,81 C87,81 90,78 90,74 L90,56 C90,34 76,20 54,20 Z" />
+    <!-- Dynamic Graphic Equalizer inside (Electric Purple) -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M48,50 L48,68 L52,68 L52,50 Z M42,55 L42,63 L46,63 L46,55 Z M54,53 L54,65 L58,65 L58,53 Z M60,48 L60,70 L64,70 L64,48 Z" />
+</vector>

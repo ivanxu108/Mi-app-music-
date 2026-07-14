@@ -1,0 +1,6 @@
+{
+  "name": "Musicfy",
+  "description": "Una aplicación de música moderna con diseño premium oscuro, buscador de canciones, favoritos y reproductor funcional interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
